@@ -3,5 +3,5 @@ const userAge = parseInt(prompt("Quanti anni hai?"));
 
 const ticketPrice = userTrip * 0.21;
 
-console.log(ticketPrice);
+console.log("Il prezzo del biglietto è:",ticketPrice);
 
